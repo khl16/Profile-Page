@@ -1,0 +1,198 @@
+
+
+
+
+
+
+.nav-block{
+   
+    background-color: #333;
+    margin-bottom: 20px;
+    justify-content:space-evenly;
+    display: flex;
+    align-items: baseline;
+    color: rgb(255, 255, 255);
+   
+}
+.ul{
+    display: flex;
+  
+
+}
+#A{
+    display: block;
+  padding: 8px;
+  
+}
+#B{
+    display: block;
+    padding: 8px;
+}
+#C{
+    display: block;
+    padding: 8px; 
+}
+
+.button{
+    background-color: #418f98;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.main-block{
+    display: flex;
+    justify-content:space-evenly;
+    align-content:center;
+
+
+    
+  
+
+}
+
+
+
+/*---------------------------Block 1--------------------------------*/
+
+.block1{
+    
+    border: 3px solid grey;
+   
+    
+  
+ 
+ 
+    
+}
+
+.block1-1{
+    padding: 10px;
+    align-content:center;
+
+  
+   
+     
+   
+    
+   
+ 
+      
+    
+}
+
+.img-gear{
+    height: 30px;
+}
+
+.img-p{
+    height: 100px;
+   
+}
+
+.upper{
+     
+    background-color: #418f98;
+    height: 50px;
+  
+ 
+    
+ 
+  
+    
+
+}
+
+
+.img-loction{
+    height: 30px;
+}
+
+
+/*---------------------------Block 2--------------------------------*/
+
+
+.block2{
+   
+    border: 3px solid grey;
+    margin-top: 5px;
+    
+    
+}
+
+
+.Edu{
+    background-color: rgb(71, 75, 75);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    flex-direction: row;
+    margin-top: auto;
+   
+
+    
+}
+.Edu-1{
+    padding: 10px;
+}
+
+
+.img-ch{
+    height: 40px;
+}
+/*---------------------------Block 3--------------------------------*/
+.block3{
+    border: 3px solid grey;
+  
+    
+}
+.con{
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.img-s{
+    height: 25px;   
+}
+/*---------------------------Block 4--------------------------------*/
+.block4{
+    border: 3px solid grey;
+    margin-top: 5px;
+}
+
+.con1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.view{
+      border: 3px solid rgb(181, 181, 181);
+      padding-left:5px;
+      
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
